@@ -1,7 +1,7 @@
 # DistrictBuilder
 
-![Azavea](https://raw.github.com/azavea/DistrictBuilder/azavea_RGB_72dpi_trans_sm.png)
-![DistrictBuilder](https://raw.github.com/azavea/DistrictBuilder/districtbuilder_color-white_sm.png)
+![Azavea](https://github.com/azavea/DistrictBuilder/raw/master/azavea_RGB_72dpi_trans_sm.png)
+![DistrictBuilder](https://github.com/azavea/DistrictBuilder/raw/master/districtbuilder_color-white_sm.png)
 
 [Azavea](http://www.azavea.com) developed the DistrictBuilder software in collaboration with the PublicMapping Project, under the direction of Dr. Michael McDonald and Dr. Micah Altman.
 
